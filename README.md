@@ -1,5 +1,5 @@
 <h2> Hi, I'm Khaliq Anwar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="images/your-gif.gif" width="230">
+<img align='right' src="images/giphy.gif" width="230">
 <p><em>Sr. QA Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
