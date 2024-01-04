@@ -13,14 +13,16 @@
 ```javascript
 const khaliq = {
   pronouns: "he" | "him",
-  automationTestingTools: [Java, Selenium, Rest Assured, Postman, TestNG, Maven, Gradle, Git, JMeter, Load Runner],
-  cloudServices: [AWS , CloudWatch, Lambda, SNS , SES , SQS , Azure, Cloud Computing],
+  language: [Java],
+  automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Maven, Gradle],
+  performanceTestingTools: [JMeter, Load_Runner],
+  cloudServices: [AWS, CloudWatch, Lambda, SNS, SES, SQS, Azure, Cloud Computing],
   containerizationAndOrchestration: [Docker, Kubernetes],
   versionControlAndCollaboration: [Git, Github],
-  others: [Microservices, Neo4j, DevOps, Pipeline,Agile, Cucumber BDD, MySQL],
+  others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL],
   CI/CD: ["Jenkins", "Github Actions"],
 
- challenge: "I am doing the #100DaysOfCode challenge focused on javascript and C#"
+  challenge: "I am doing the #100DaysOfCode challenge focused on javascript and C#"
 }
 ```
 
