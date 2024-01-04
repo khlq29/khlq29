@@ -16,7 +16,7 @@ const khaliq = {
   language: [Java],
   automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Maven, Gradle],
   performanceTestingTools: [JMeter, Load_Runner],
-  cloudServices: [AWS, CloudWatch, Lambda, SNS, SES, SQS, Azure, Cloud Computing],
+  cloudServices: [AWS, CloudWatch, Lambda, SNS, SES, SQS, Azure, Cloud_Computing],
   containerizationAndOrchestration: [Docker, Kubernetes],
   versionControlAndCollaboration: [Git, Github],
   others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL],
