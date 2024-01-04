@@ -20,7 +20,7 @@ const khaliq = {
   containerizationAndOrchestration: [Docker, Kubernetes],
   versionControlAndCollaboration: [Git, Github],
   others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL],
-  CI/CD: ["Jenkins", "Github Actions"],
+  CI/CD: ["Jenkins", "Github_Actions"],
 
   challenge: "I am doing the #100DaysOfCode challenge focused on javascript and C#"
 }
