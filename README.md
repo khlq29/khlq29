@@ -13,12 +13,12 @@
 ```javascript
 const khaliq = {
   pronouns: "he" | "him",
-  language: [Java],
-  automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Maven, Gradle],
+  language: [Java, Javascript, Typescript],
+  automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Maven, Gradle, Jest, Vitest],
   performanceTestingTools: [JMeter, Load_Runner],
   cloudServices: [AWS, CloudWatch, Lambda, SNS, SES, SQS, Azure, Cloud_Computing],
   containerizationAndOrchestration: [Docker, Kubernetes],
-  versionControlAndCollaboration: [Git, Github],
+  versionControlAndCollaboration: [Git, Github, Gitlab],
   others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL],
   CI/CD: ["Jenkins", "Github_Actions"],
 
