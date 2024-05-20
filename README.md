@@ -22,7 +22,7 @@ const khaliq = {
   others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL],
   CI/CD: ["Jenkins", "Github_Actions"],
 
-  challenge: "I am doing the #100DaysOfCode challenge focused on javascript and typescript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on javascript/typescript"
 }
 ```
 
