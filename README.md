@@ -15,7 +15,7 @@ const khaliq = {
   pronouns: "he" | "him",
   language: [Java, Javascript, Typescript],
   automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Jest, Vitest],
-  BuildManagementTools: [Maven, Gradle, Node.js],
+  BuildManagementTools: [Maven, Gradle, NodeJs],
   performanceTestingTools: [JMeter, Load_Runner],
   cloudServices: [AWS, CloudWatch, Lambda, SNS, SES, SQS, Azure, Cloud_Computing],
   containerizationAndOrchestration: [Docker, Kubernetes],
