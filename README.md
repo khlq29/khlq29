@@ -12,7 +12,6 @@
 
 ```javascript
 const khaliq = {
-  pronouns: "he" | "him",
   language: [Java, Javascript, Typescript],
   automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Jest, Vitest],
   BuildManagementTools: [Maven, Gradle, NodeJs],
