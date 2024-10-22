@@ -13,14 +13,14 @@
 ```javascript
 const khaliq = {
   language: [Java, Javascript, Typescript],
-  automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Jest, Vitest],
-  BuildManagementTools: [Maven, Gradle, NodeJs],
+  automationTestingTools: [Selenium, Rest_Assured, Postman, TestNG, Jest, Vitest, Mocha, Jasmine, Playwright],
+  BuildManagementTools: [Maven, Gradle, NodeJs, npm, yarn, pnpm, bun],
   performanceTestingTools: [JMeter, Load_Runner],
   cloudServices: [AWS, CloudWatch, Lambda, SNS, SES, SQS, Azure, Cloud_Computing],
   containerizationAndOrchestration: [Docker, Kubernetes],
   versionControlAndCollaboration: [Git, Github, Gitlab],
-  others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL],
-  CI/CD: ["Jenkins", "Github_Actions"],
+  others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL, Postgres, Redis],
+  CI/CD: ["Jenkins", "Github_Actions", "Gitlab CI/CD"],
 
   challenge: "I am doing the #100DaysOfCode challenge focused on javascript/typescript"
 }
