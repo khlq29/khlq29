@@ -19,7 +19,7 @@ const khaliq = {
   cloudServices: [AWS, CloudWatch, Lambda, SNS, SES, SQS, Azure, Cloud_Computing],
   containerizationAndOrchestration: [Docker, Kubernetes],
   versionControlAndCollaboration: [Git, Github, Gitlab],
-  others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL, Postgres, Redis],
+  others: [Microservices, Neo4j, DevOps, Pipeline, Agile, Cucumber_BDD, MySQL, Postgres, Redis, TypeORM],
   CI/CD: ["Jenkins", "Github_Actions", "Gitlab CI/CD"],
 
   challenge: "I am doing the #100DaysOfCode challenge focused on javascript/typescript"
